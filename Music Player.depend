@@ -1,0 +1,43 @@
+# depslib dependency file v1.0
+1695781410 source:c:\users\zillu\onedrive\desktop\turzo\music player\main.cpp
+	"essentials.hpp"
+	"language.hpp"
+	"Library.hpp"
+	"Sources.hpp"
+	"PlayMusic.hpp"
+
+1695719354 c:\users\zillu\onedrive\desktop\turzo\music player\include\essentials.hpp
+	<bits/stdc++.h>
+	<iostream>
+	<windows.h>
+	<fstream>
+	<conio.h>
+
+1695363931 c:\users\zillu\onedrive\desktop\turzo\music player\include\language.hpp
+	<iostream>
+
+1695364438 c:\users\zillu\onedrive\desktop\turzo\music player\include\library.hpp
+	<iostream>
+	<fstream>
+
+1695365248 c:\users\zillu\onedrive\desktop\turzo\music player\include\sources.hpp
+	"Library.hpp"
+
+1695780941 c:\users\zillu\onedrive\desktop\turzo\music player\include\playmusic.hpp
+	<iostream>
+	<windows.h>
+	"mmsystem.h"
+
+1695363743 source:c:\users\zillu\onedrive\desktop\turzo\music player\src\language.cpp
+	"language.hpp"
+
+1695364438 source:c:\users\zillu\onedrive\desktop\turzo\music player\src\library.cpp
+	"Library.hpp"
+
+1695367989 source:c:\users\zillu\onedrive\desktop\turzo\music player\src\playmusic.cpp
+	"PlayMusic.hpp"
+
+1695365353 source:c:\users\zillu\onedrive\desktop\turzo\music player\src\sources.cpp
+	"Sources.hpp"
+	"Library.hpp"
+
